@@ -1,0 +1,44 @@
+body{
+Background-color:Black;}
+h1{
+  Color:blue;
+  text-align:center;
+  font-family:verdana;}
+h2{
+  Color:Solid Red;
+  text-align:center;
+  font-family:verdana;}
+p{
+	color:white;
+	Font-family:Arial;
+	text-align:center;}
+div {
+  border:1px solid black
+  padding-top: 50px;
+  padding-right: 200px;
+  padding-left: 200px;
+  padding-bottom:50px;
+  color:white;
+  Font-family:arial;}
+img{
+  width:24.8%;
+  height:400px;}
+td{ background-color:white;}
+#p01{
+  color:Dark Blue;
+  Font-family:Arial;
+  text-align:left;}
+a:visited{
+  color:green;
+  background-color:transparent;}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;}
+a:link {
+  color: blue; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+hr{
+  color:red;}
